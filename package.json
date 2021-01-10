@@ -1,0 +1,22 @@
+{
+  "name": "tokenicon",
+  "version": "1.0.0",
+  "description": "A Token SVG icon for VUE, based on BitcoinSV Contract Id",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baryon/TokenIcon.git"
+  },
+  "author": "LI Long",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baryon/TokenIcon/issues"
+  },
+  "homepage": "https://github.com/baryon/TokenIcon#readme",
+  "dependencies": {
+    "d3": "^6.3.1"
+  }
+}
